@@ -1,3 +1,5 @@
 1. ubah filesystem.php buat path sesuai keinginan
 2. storage link
 3. controller crud
+4. coba get gambarnya secara static
+5. lanjut frontend
